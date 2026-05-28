@@ -39,7 +39,7 @@ output/selected_surahs.json
 
 Edit this line in script:
 
-SELECTED_SURAHS = [36, 55, 56, 67]
+SELECTED_SURAHS = [1,2,3,4, --]
 
 📱 Use Case
 
